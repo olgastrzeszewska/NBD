@@ -1,0 +1,14 @@
+// 1
+MATCH (Darjeeling:town { name: "Darjeeling" }), (Sandakphu:peak { name: "Sandakphu" }) MATCH trasa = ShortestPath((Darjeeling)-[*]->(Sandakphu)) RETURN trasa
+
+// 2
+MATCH (Darjeeling:town { name: "Darjeeling" }), (Sandakphu:peak { name: "Sandakphu" })MATCH trasa = ShortestPath((Darjeeling)-[*]->(Sandakphu)) WHERE ALL (r IN relationships(trasa) WHERE r.winter = "true") RETURN trasa
+
+// 3
+MATCH trasy = (Darjeeling:town { name: "Darjeeling" })-[*1..50]->(Sandakphu:peak { name: "Sandakphu" }) RETURN trasy, reduce(distance = 0, r in relationships(trasy) | distance + r.distance) as distance ORDER BY distance
+
+// 4
+MATCH trasy = (Darjeeling:town {name:"Darjeeling"})-[:twowheeler*]->(miejsce) WHERE ALL (r in relationships(trasy) WHERE r.summer = "true") RETURN  miejsce, trasy
+// (no changes, no records)
+
+MATCH trasy = (Rimbik:town {name:"Rimbik"})-[:twowheeler*]->(miejsce) WHERE ALL (r in relationships(trasy) WHERE r.summer = "true") RETURN  miejsce, trasy

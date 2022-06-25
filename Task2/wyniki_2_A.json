@@ -1,0 +1,622 @@
+MongoDB shell version v5.0.9
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("c5f6dcff-9115-4820-b4b8-930d7e210609") }
+MongoDB server version: 5.0.9
+[
+	{
+		"SUMA" : 345203.25,
+		"waluta" : "UGX"
+	},
+	{
+		"SUMA" : 817695.24,
+		"waluta" : "HNL"
+	},
+	{
+		"SUMA" : 26269.07,
+		"waluta" : "LSL"
+	},
+	{
+		"SUMA" : 61445.270000000004,
+		"waluta" : "PGK"
+	},
+	{
+		"SUMA" : 687770.55,
+		"waluta" : "PKR"
+	},
+	{
+		"SUMA" : 758807.63,
+		"waluta" : "ILS"
+	},
+	{
+		"SUMA" : 534069.77,
+		"waluta" : "DOP"
+	},
+	{
+		"SUMA" : 27425502.27,
+		"waluta" : "CNY"
+	},
+	{
+		"SUMA" : 363643.61,
+		"waluta" : "PAB"
+	},
+	{
+		"SUMA" : 2084269.88,
+		"waluta" : "THB"
+	},
+	{
+		"SUMA" : 55420.34,
+		"waluta" : "NAD"
+	},
+	{
+		"SUMA" : 8223429.02,
+		"waluta" : "PHP"
+	},
+	{
+		"SUMA" : 294843.38,
+		"waluta" : "BDT"
+	},
+	{
+		"SUMA" : 501467.35,
+		"waluta" : "SYP"
+	},
+	{
+		"SUMA" : 21354.39,
+		"waluta" : "ANG"
+	},
+	{
+		"SUMA" : 5118.97,
+		"waluta" : "FKP"
+	},
+	{
+		"SUMA" : 22698.46,
+		"waluta" : "BHD"
+	},
+	{
+		"SUMA" : 240664.87,
+		"waluta" : "NIO"
+	},
+	{
+		"SUMA" : 157963.9,
+		"waluta" : "GMD"
+	},
+	{
+		"SUMA" : 388620.14,
+		"waluta" : "CLP"
+	},
+	{
+		"SUMA" : 108940.64,
+		"waluta" : "CHF"
+	},
+	{
+		"SUMA" : 257433.54,
+		"waluta" : "BOB"
+	},
+	{
+		"SUMA" : 220627.42,
+		"waluta" : "LTL"
+	},
+	{
+		"SUMA" : 286515.48,
+		"waluta" : "PYG"
+	},
+	{
+		"SUMA" : 394880.17,
+		"waluta" : "AZN"
+	},
+	{
+		"SUMA" : 804397.05,
+		"waluta" : "IRR"
+	},
+	{
+		"SUMA" : 73222.48,
+		"waluta" : "GNF"
+	},
+	{
+		"SUMA" : 39048.74,
+		"waluta" : "ISK"
+	},
+	{
+		"SUMA" : 12166.2,
+		"waluta" : "DZD"
+	},
+	{
+		"SUMA" : 215992.13,
+		"waluta" : "HTG"
+	},
+	{
+		"SUMA" : 760113.61,
+		"waluta" : "NOK"
+	},
+	{
+		"SUMA" : 689403.5,
+		"waluta" : "HRK"
+	},
+	{
+		"SUMA" : 167531.82,
+		"waluta" : "IQD"
+	},
+	{
+		"SUMA" : 13053.5,
+		"waluta" : "GYD"
+	},
+	{
+		"SUMA" : 15619806.11,
+		"waluta" : "IDR"
+	},
+	{
+		"SUMA" : 197545.65,
+		"waluta" : "LYD"
+	},
+	{
+		"SUMA" : 87008.08,
+		"waluta" : "OMR"
+	},
+	{
+		"SUMA" : 7782.66,
+		"waluta" : "BND"
+	},
+	{
+		"SUMA" : 5189,
+		"waluta" : "BMD"
+	},
+	{
+		"SUMA" : 83159.05,
+		"waluta" : "GHS"
+	},
+	{
+		"SUMA" : 2505840.72,
+		"waluta" : "UAH"
+	},
+	{
+		"SUMA" : 146972.04,
+		"waluta" : "BWP"
+	},
+	{
+		"SUMA" : 7282.73,
+		"waluta" : "AWG"
+	},
+	{
+		"SUMA" : 16700089.28,
+		"waluta" : "EUR"
+	},
+	{
+		"SUMA" : 168150.01,
+		"waluta" : "XCD"
+	},
+	{
+		"SUMA" : 142978.86,
+		"waluta" : "ZWL"
+	},
+	{
+		"SUMA" : 92068.64,
+		"waluta" : "MZN"
+	},
+	{
+		"SUMA" : 528336.14,
+		"waluta" : "EGP"
+	},
+	{
+		"SUMA" : 661834.75,
+		"waluta" : "AFN"
+	},
+	{
+		"SUMA" : 52973.33,
+		"waluta" : "AED"
+	},
+	{
+		"SUMA" : 43299.96,
+		"waluta" : "RWF"
+	},
+	{
+		"SUMA" : 37711.08,
+		"waluta" : "BTN"
+	},
+	{
+		"SUMA" : 223284.76,
+		"waluta" : "MMK"
+	},
+	{
+		"SUMA" : 18424.47,
+		"waluta" : "TOP"
+	},
+	{
+		"SUMA" : 666533.65,
+		"waluta" : "MYR"
+	},
+	{
+		"SUMA" : 602964.09,
+		"waluta" : "AMD"
+	},
+	{
+		"SUMA" : 222518.63,
+		"waluta" : "KPW"
+	},
+	{
+		"SUMA" : 173318.73,
+		"waluta" : "MDL"
+	},
+	{
+		"SUMA" : 165192.16,
+		"waluta" : "HUF"
+	},
+	{
+		"SUMA" : 36358.92,
+		"waluta" : "QAR"
+	},
+	{
+		"SUMA" : 23023.02,
+		"waluta" : "HKD"
+	},
+	{
+		"SUMA" : 37654,
+		"waluta" : "TWD"
+	},
+	{
+		"SUMA" : 26720.5,
+		"waluta" : "BBD"
+	},
+	{
+		"SUMA" : 113099.62,
+		"waluta" : "TMT"
+	},
+	{
+		"SUMA" : 19686.77,
+		"waluta" : "SRD"
+	},
+	{
+		"SUMA" : 12820.48,
+		"waluta" : "SGD"
+	},
+	{
+		"SUMA" : 639977.48,
+		"waluta" : "MNT"
+	},
+	{
+		"SUMA" : 23188.93,
+		"waluta" : "VUV"
+	},
+	{
+		"SUMA" : 243512.86,
+		"waluta" : "GBP"
+	},
+	{
+		"SUMA" : 21598.47,
+		"waluta" : "ERN"
+	},
+	{
+		"SUMA" : 496641.83,
+		"waluta" : "BGN"
+	},
+	{
+		"SUMA" : 132926.01,
+		"waluta" : "XPF"
+	},
+	{
+		"SUMA" : 222452.28,
+		"waluta" : "DKK"
+	},
+	{
+		"SUMA" : 18414.53,
+		"waluta" : "TRY"
+	},
+	{
+		"SUMA" : 510936.11,
+		"waluta" : "MAD"
+	},
+	{
+		"SUMA" : 24296.690000000002,
+		"waluta" : "BZD"
+	},
+	{
+		"SUMA" : 629053.41,
+		"waluta" : "VEF"
+	},
+	{
+		"SUMA" : 436912.01,
+		"waluta" : "MKD"
+	},
+	{
+		"SUMA" : 231996.14,
+		"waluta" : "UYU"
+	},
+	{
+		"SUMA" : 44471.32,
+		"waluta" : "MRO"
+	},
+	{
+		"SUMA" : 2356548.02,
+		"waluta" : "PEN"
+	},
+	{
+		"SUMA" : 146606.65,
+		"waluta" : "NPR"
+	},
+	{
+		"SUMA" : 415965.47,
+		"waluta" : "BAM"
+	},
+	{
+		"SUMA" : 67582.8,
+		"waluta" : "AOA"
+	},
+	{
+		"SUMA" : 736336.77,
+		"waluta" : "XAF"
+	},
+	{
+		"SUMA" : 86305.05,
+		"waluta" : "LAK"
+	},
+	{
+		"SUMA" : 934043.61,
+		"waluta" : "XOF"
+	},
+	{
+		"SUMA" : 54883.45,
+		"waluta" : "LRD"
+	},
+	{
+		"SUMA" : 160940.53,
+		"waluta" : "ZMW"
+	},
+	{
+		"SUMA" : 127317.75,
+		"waluta" : "SDG"
+	},
+	{
+		"SUMA" : 433497.06,
+		"waluta" : "KRW"
+	},
+	{
+		"SUMA" : 242667.03,
+		"waluta" : "AUD"
+	},
+	{
+		"SUMA" : 88106.83,
+		"waluta" : "MWK"
+	},
+	{
+		"SUMA" : 32068.850000000002,
+		"waluta" : "MVR"
+	},
+	{
+		"SUMA" : 9321.43,
+		"waluta" : "FJD"
+	},
+	{
+		"SUMA" : 514413.88,
+		"waluta" : "CUP"
+	},
+	{
+		"SUMA" : 584923.2,
+		"waluta" : "KZT"
+	},
+	{
+		"SUMA" : 3706221.0100000002,
+		"waluta" : "SEK"
+	},
+	{
+		"SUMA" : 45782.33,
+		"waluta" : "BIF"
+	},
+	{
+		"SUMA" : 42256.53,
+		"waluta" : "SSP"
+	},
+	{
+		"SUMA" : 225111.38999999998,
+		"waluta" : "LKR"
+	},
+	{
+		"SUMA" : 686489.84,
+		"waluta" : "BYR"
+	},
+	{
+		"SUMA" : 11557.6,
+		"waluta" : "RON"
+	},
+	{
+		"SUMA" : 1976194.79,
+		"waluta" : "COP"
+	},
+	{
+		"SUMA" : 2584824.9,
+		"waluta" : "JPY"
+	},
+	{
+		"SUMA" : 5609900,
+		"waluta" : "BRL"
+	},
+	{
+		"SUMA" : 651597.87,
+		"waluta" : "ALL"
+	},
+	{
+		"SUMA" : 14734.27,
+		"waluta" : "DJF"
+	},
+	{
+		"SUMA" : 588368.85,
+		"waluta" : "GTQ"
+	},
+	{
+		"SUMA" : 1940347.24,
+		"waluta" : "ARS"
+	},
+	{
+		"SUMA" : 5075738.36,
+		"waluta" : "PLN"
+	},
+	{
+		"SUMA" : 269798.11,
+		"waluta" : "KES"
+	},
+	{
+		"SUMA" : 176827.79,
+		"waluta" : "KGS"
+	},
+	{
+		"SUMA" : 4854.36,
+		"waluta" : "STD"
+	},
+	{
+		"SUMA" : 46538.51,
+		"waluta" : "CVE"
+	},
+	{
+		"SUMA" : 2644211.16,
+		"waluta" : "CZK"
+	},
+	{
+		"SUMA" : 1282147.14,
+		"waluta" : "NGN"
+	},
+	{
+		"SUMA" : 157276.96,
+		"waluta" : "GEL"
+	},
+	{
+		"SUMA" : 4086760.81,
+		"waluta" : "USD"
+	},
+	{
+		"SUMA" : 330309.61,
+		"waluta" : "UZS"
+	},
+	{
+		"SUMA" : 59113.090000000004,
+		"waluta" : "SZL"
+	},
+	{
+		"SUMA" : 30739.64,
+		"waluta" : "WST"
+	},
+	{
+		"SUMA" : 55361.39,
+		"waluta" : "BSD"
+	},
+	{
+		"SUMA" : 178097.37,
+		"waluta" : "CDF"
+	},
+	{
+		"SUMA" : 177401.05,
+		"waluta" : "TJS"
+	},
+	{
+		"SUMA" : 82203.48,
+		"waluta" : "SOS"
+	},
+	{
+		"SUMA" : 116224.9,
+		"waluta" : "SLL"
+	},
+	{
+		"SUMA" : 338447.54,
+		"waluta" : "NZD"
+	},
+	{
+		"SUMA" : 82506.07,
+		"waluta" : "KWD"
+	},
+	{
+		"SUMA" : 5337.77,
+		"waluta" : "MOP"
+	},
+	{
+		"SUMA" : 269686.62,
+		"waluta" : "ETB"
+	},
+	{
+		"SUMA" : 14797.58,
+		"waluta" : "SCR"
+	},
+	{
+		"SUMA" : 24172.940000000002,
+		"waluta" : "INR"
+	},
+	{
+		"SUMA" : 817403.54,
+		"waluta" : "RSD"
+	},
+	{
+		"SUMA" : 182130.48,
+		"waluta" : "MUR"
+	},
+	{
+		"SUMA" : 100447.58,
+		"waluta" : "KHR"
+	},
+	{
+		"SUMA" : 9983,
+		"waluta" : "SBD"
+	},
+	{
+		"SUMA" : 932463.66,
+		"waluta" : "ZAR"
+	},
+	{
+		"SUMA" : 583657.38,
+		"waluta" : "YER"
+	},
+	{
+		"SUMA" : 1395639.11,
+		"waluta" : "VND"
+	},
+	{
+		"SUMA" : 325755.9,
+		"waluta" : "TND"
+	},
+	{
+		"SUMA" : 16809.66,
+		"waluta" : "KYD"
+	},
+	{
+		"SUMA" : 43326.06,
+		"waluta" : "LBP"
+	},
+	{
+		"SUMA" : 377675.55,
+		"waluta" : "MGA"
+	},
+	{
+		"SUMA" : 8532474.09,
+		"waluta" : "RUB"
+	},
+	{
+		"SUMA" : 1547673.09,
+		"waluta" : "MXN"
+	},
+	{
+		"SUMA" : 138004.7,
+		"waluta" : "KMF"
+	},
+	{
+		"SUMA" : 201447.71,
+		"waluta" : "JMD"
+	},
+	{
+		"SUMA" : 44044.89,
+		"waluta" : "TTD"
+	},
+	{
+		"SUMA" : 1973241.6,
+		"waluta" : "CAD"
+	},
+	{
+		"SUMA" : 161706,
+		"waluta" : "SAR"
+	},
+	{
+		"SUMA" : 603855.99,
+		"waluta" : "TZS"
+	},
+	{
+		"SUMA" : 334544.06,
+		"waluta" : "CRC"
+	},
+	{
+		"SUMA" : 210496.68,
+		"waluta" : "JOD"
+	}
+]

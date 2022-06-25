@@ -1,0 +1,9 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    16    0     0  100    16      0    640 --:--:-- --:--:-- --:--:--   666HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s25885/keys/9LXjBOSThJxP4W8Gv8f5BGL6kZe
+Date: Thu, 23 Jun 2022 19:27:18 GMT
+Content-Type: application/json
+Content-Length: 0

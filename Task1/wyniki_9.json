@@ -1,0 +1,302 @@
+MongoDB shell version v5.0.9
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("cc84f112-c75a-4365-bb4c-a7fde17d84d0") }
+MongoDB server version: 5.0.9
+{ "acknowledged" : true, "matchedCount" : 59, "modifiedCount" : 59 }
+[
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf12f"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf1fb"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf305"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf334"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf3bc"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf3c8"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf3ea"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf434"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf45a"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf56e"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf59d"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf5ea"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf5f1"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf70d"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3062b3c7d04dbcf76c"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcf847"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcf89d"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcf98a"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcfa09"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcfa29"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcfa82"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcfc70"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcfd3a"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3162b3c7d04dbcff39"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd0067"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd01c2"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd01f6"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd04aa"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd05df"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd05ec"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd060a"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd060b"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd0650"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd069c"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd0703"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd08c2"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd08d8"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd098d"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd09ac"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd0acc"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd0ae9"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3262b3c7d04dbd0afc"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd0c24"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd0e54"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd0fa4"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd0fde"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd10cb"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd116c"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd1206"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd121b"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd121e"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd1294"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd1324"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd13b4"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd13ea"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd15d1"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd15ff"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd16e1"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	},
+	{
+		"_id" : ObjectId("62b0ba3362b3c7d04dbd174e"),
+		"first_name" : "Antonio",
+		"hobby" : "pingpong"
+	}
+]

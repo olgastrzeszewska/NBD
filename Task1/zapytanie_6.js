@@ -1,0 +1,2 @@
+printjson(db.people.insertOne( { "sex":"Female","first_name":"Olga","last_name":"Strzeszewska","job":"Programmer","email":"s25885@pjwstk.edu.pl","location":{"city":"Warszawa","address":{"streetname":"Przy Agorze","streetnumber":"22"}},"description":"Description","height":"175","weight":"65","birth_date":"1998-07-15","nationality":":Poland","credit":[ {"type":"CreditType","number":"11111111111111","currency":"PLN","balance":"10000"} ]} ));
+printjson(db.people.find( { first_name: "Olga" } ).toArray());

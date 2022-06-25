@@ -1,0 +1,50 @@
+$ curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Latek", "rodzaj": "Kon", "wiek": 15, "roslinozerca": true}' http://localhost:8098/buckets/s25885/keys/zwierze1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    68    0     0  100    68      0    747 --:--:-- --:--:-- --:--:--   755HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 23 Jun 2022 19:02:49 GMT
+Content-Type: application/json
+Content-Length: 0
+
+$ curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Azor", "rodzaj": "Pies", "wiek": 5, "roślinożerca": false}' http://localhost:8098/buckets/s25885/keys/zwierze2
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    68    0     0  100    68      0   2193 --:--:-- --:--:-- --:--:--  2266HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 23 Jun 2022 19:04:04 GMT
+Content-Type: application/json
+Content-Length: 0
+
+$ curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Puszek", "rodzaj": "Kot", "wiek": 3, "roślinożerca": false}' http://localhost:8098/buckets/s25885/keys/zwierze3
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    69    0     0  100    69      0   1408 --:--:-- --:--:-- --:--:--  1408HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 23 Jun 2022 19:05:10 GMT
+Content-Type: application/json
+Content-Length: 0
+
+$ curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Sonia", "rodzaj": "Pies", "wiek": 20, "roślinożerca": false}' http://localhost:8098/buckets/s25885/keys/zwierze4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    70    0     0  100    70      0   2413 --:--:-- --:--:-- --:--:--  2500HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 23 Jun 2022 19:05:19 GMT
+Content-Type: application/json
+Content-Length: 0
+
+$ curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Bella", "rodzaj": "Ryba", "wiek": 1, "roślinożerca": false}' http://localhost:8098/buckets/s25885/keys/zwierze5
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    69    0     0  100    69      0   7666 --:--:-- --:--:-- --:--:--  7666HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 23 Jun 2022 19:05:29 GMT
+Content-Type: application/json
+Content-Length: 0
+

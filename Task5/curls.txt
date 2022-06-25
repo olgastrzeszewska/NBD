@@ -1,0 +1,33 @@
+#1
+curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Latek", "rodzaj": "Kon", "wiek": 15, "roslinozerca": true}' http://localhost:8098/buckets/s25885/keys/zwierze1
+curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Azor", "rodzaj": "Pies", "wiek": 5, "roślinożerca": false}' http://localhost:8098/buckets/s25885/keys/zwierze2
+curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Puszek", "rodzaj": "Kot", "wiek": 3, "roślinożerca": false}' http://localhost:8098/buckets/s25885/keys/zwierze3
+curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Sonia", "rodzaj": "Pies", "wiek": 20, "roślinożerca": false}' http://localhost:8098/buckets/s25885/keys/zwierze4
+curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Bella", "rodzaj": "Ryba", "wiek": 1, "roślinożerca": false}' http://localhost:8098/buckets/s25885/keys/zwierze5
+
+#2
+curl -i http://localhost:8098/buckets/s25885/keys/zwierze1
+
+#3
+curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Latek", "rodzaj": "Kon", "wiek": 15, "roslinozerca": true, "ssak": true}' http://localhost:8098/buckets/s25885/keys/zwierze1
+
+#4
+curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "Latek", "rodzaj": "Kon", "wiek": 15, "roslinozerca": true}' http://localhost:8098/buckets/s25885/keys/zwierze1
+
+#5
+curl -XPUT -i -H "Content-Type: application/json" -d '{"imie": "NowyLatek", "rodzaj": "Kon", "wiek": 15, "roslinozerca": true}' http://localhost:8098/buckets/s25885/keys/zwierze1
+
+#6
+curl -XDELETE -i http://localhost:8098/buckets/s25885/keys/zwierze5
+
+#7
+curl -i http://localhost:8098/buckets/s25885/keys/zwierze5
+
+#8
+curl -XPOST -i -H "Content-Type: application/json" -d '{"test": "test"}' http://localhost:8098/buckets/s25885/keys/
+
+#9
+curl -i http://localhost:8098/buckets/s25885/keys/9LXjBOSThJxP4W8Gv8f5BGL6kZe
+
+#10
+curl -XDELETE -i http://localhost:8098/buckets/s25885/keys/9LXjBOSThJxP4W8Gv8f5BGL6kZe
